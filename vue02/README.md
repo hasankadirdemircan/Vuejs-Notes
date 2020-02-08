@@ -112,8 +112,8 @@ window.addEventListener('load', () => {
   
   });
    ```
-
-## How to Run to Server
+   
+   ## How to Run to Server
  ```
  python -m SimpleHTTPServer 8000
  ```
