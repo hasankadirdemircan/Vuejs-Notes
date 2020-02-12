@@ -1,20 +1,8 @@
-<h1>Card Shopiing </h1>
+<h1>Card Shopping </h1>
 
 ### Screenshot
 ![vuejs02](https://user-images.githubusercontent.com/34090058/74372582-f9b0fa80-4deb-11ea-82a5-83b4ce32a77c.gif)
 
-
-<p align="center">
-  <a href="https://user-images.githubusercontent.com/34090058/74091381-e8a07a80-4ac7-11ea-9830-ba5c8098ef7a.png">
-    <img alt="Techs" title="Techs" src="https://user-images.githubusercontent.com/34090058/74091381-e8a07a80-4ac7-11ea-9830-ba5c8098ef7a.png"width="400">
-  </a>
-</p>
-Save for latter
-<p align="center">
-  <a href="https://user-images.githubusercontent.com/34090058/74091393-fc4be100-4ac7-11ea-83cb-01e90a293323.png">
-    <img alt="Techs" title="Techs" src="https://user-images.githubusercontent.com/34090058/74091393-fc4be100-4ac7-11ea-83cb-01e90a293323.png"width="400">
-  </a>
-</p>
 # Code Example
 
  app.js
